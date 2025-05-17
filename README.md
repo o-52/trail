@@ -1,3 +1,3 @@
-# trail
+# Трейл забеги
 
-[Кубок 2025](/cup/2025/Rezultaty_kubka_2025_trail.htm)
+[Результаты Кубка 2025](/cup/2025/Rezultaty_kubka_2025_trail.htm)
