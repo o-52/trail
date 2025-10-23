@@ -839,16 +839,6 @@ td
 	font-weight:700;
 	font-family:Calibri, sans-serif;
 	mso-font-charset:204;
-	border:.5pt solid #F79646;
-	background:#262626;
-	mso-pattern:black none;}
-.xl139
-	{mso-style-parent:style0;
-	color:white;
-	font-size:11.0pt;
-	font-weight:700;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:204;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
@@ -858,7 +848,7 @@ td
 	background:#262626;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl140
+.xl139
 	{mso-style-parent:style0;
 	color:#F79646;
 	font-size:11.0pt;
@@ -871,6 +861,16 @@ td
 	background:#262626;
 	mso-pattern:black none;
 	white-space:normal;}
+.xl140
+	{mso-style-parent:style0;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:204;
+	border:.5pt solid #F79646;
+	background:#262626;
+	mso-pattern:black none;}
 .xl141
 	{mso-style-parent:style0;
 	color:#F79646;
